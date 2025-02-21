@@ -12,7 +12,7 @@ This project allows users to perform standard arithmetic operations (addition, s
 
 If you'd like to see how the Calculator GUI works, check out the demo video below:
 
-[![Watch the Demo](https://img.youtube.com/vi/baRDqaXA1cg/0.jpg)](https://youtu.be/baRDqaXA1cg)
+[![Watch the Demo](https://img.youtube.com/vi/D7x8YBrKWKA/0.jpg)](https://youtu.be/D7x8YBrKWKA)
 
 
 ## Features
