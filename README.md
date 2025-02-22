@@ -21,7 +21,7 @@ Here are the screenshots of the MATLAB Calculator SCRIPT GUI:
 
 <div style="display: flex; justify-content: space-between;">
   <img src="images/CALCULATOR USING SCRIPT_1.png" alt="Calculator SCRIPT 1" width="30%" />
-  <img src="images/CALCULATOR USING SCRIPT_2.png" alt="Calculator SCRIPTFeature 2" width="30%" />
+  <img src="images/CALCULATOR USING SCRIPT_2.png" alt="Calculator SCRIPT 2" width="30%" />
 </div>
 
 ## Demo Video
