@@ -8,6 +8,22 @@ This is a **Calculator GUI** built using **MATLAB**, providing basic mathematica
 
 This project allows users to perform standard arithmetic operations (addition, subtraction, multiplication, division) and more through an intuitive graphical user interface (GUI) created in MATLAB. The app is designed to be easy to use for anyone seeking a quick way to calculate numbers without needing to type commands.
 
+## Screenshots
+
+Here are the screenshots of the MATLAB Calculator APP GUI:
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/CALCULATOR USING GUI_1.png" alt="Calculator GUI 1" width="48%" />
+  <img src="images/CALCULATOR USING GUI_1.png" alt="Calculator GUI 2" width="48%" />
+</div>
+
+Here are the screenshots of the MATLAB Calculator SCRIPT GUI:
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/CALCULATOR USING SCRIPT_1.png" alt="Calculator SCRIPT 1" width="48%" />
+  <img src="images/CALCULATOR USING SCRIPT_1.png" alt="Calculator SCRIPTFeature 2" width="48%" />
+</div>
+
 ## Demo Video
 
 If you'd like to see how the Calculator GUI works, check out the demo video below:
